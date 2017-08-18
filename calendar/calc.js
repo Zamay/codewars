@@ -11,7 +11,7 @@ let Cal = function(divId) {
         'Thu',
         'Fri',
         'Sat',
-        'Sun'
+        'Sun',
     ];
 
     // Months, stating on January
@@ -28,7 +28,7 @@ let Cal = function(divId) {
 
 // Goes to next month
 Cal.prototype.nextMonth = function() {
-    if ( this.currMonth === 11 ) {
+    if ( this.currMonth == 11 ) {
         this.currMonth = 0;
         this.currYear = this.currYear + 1;
     }
@@ -40,7 +40,7 @@ Cal.prototype.nextMonth = function() {
 
 // Goes to previous month
 Cal.prototype.previousMonth = function() {
-    if ( this.currMonth === 0 ) {
+    if ( this.currMonth == 0 ) {
         this.currMonth = 11;
         this.currYear = this.currYear - 1;
     }
@@ -57,18 +57,14 @@ Cal.prototype.showcurr = function() {
 
 // Show month (year, month)
 Cal.prototype.showMonth = function(y, m) {
-    console.log('y',y);
-    console.log('m',m);
 
     let d = new Date(),
         // First day of the week in the selected month
-        firstDayOfMonth = new Date(y, m, 1).getDay(),
+        firstDayOfMonth = new Date(y, m, 0).getDay(),
         // Last day of the selected month
         lastDateOfMonth =  new Date(y, m+1, 0).getDate(),
         // Last day of the previous month
         lastDayOfLastMonth = m === 0 ? new Date(y-1, 11, 0).getDate() : new Date(y, m, 0).getDate();
-    console.log(lastDateOfMonth);
-    console.log(lastDayOfLastMonth);
 
     let html = '<table>';
 
@@ -90,9 +86,8 @@ Cal.prototype.showMonth = function(y, m) {
     do {
 
         let dow = new Date(y, m, i).getDay();
-        console.log('dow',dow);
         // If Sunday, start new row
-        if ( dow === 0 ) {
+        if ( dow === 1 ) {
             html += '<tr>';
         }
         // If not Sunday but first day of the month
@@ -116,14 +111,14 @@ Cal.prototype.showMonth = function(y, m) {
             html += '<td class="normal">' + i + '</td>';
         }
         // If Saturday, closes the row
-        if ( dow === 6 ) {
+        if ( dow === 7 ) {
             html += '</tr>';
         }
         // If not Saturday, but last day of the selected month
         // it will write the next few days from the next month
         else if (i === lastDateOfMonth ) {
             let k=1;
-            for(dow; dow < 6; dow++) {
+            for(dow; dow < 7; dow++) {
                 html += '<td class="not-current">' + k + '</td>';
                 k++;
             }
