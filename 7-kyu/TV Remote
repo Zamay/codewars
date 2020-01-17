@@ -1,0 +1,40 @@
+var tvRemote = function(word) {
+    let items = {
+        a: [1,1],
+        b: [2,1],
+        c: [3,1],
+        d: [4,1],
+        e: [5,1],
+        f: [1,2],
+        g: [2,2],
+        h: [3,2],
+        i: [4,2],
+        j: [5,2],
+        k: [1,3],
+        l: [2,3],
+        m: [3,3],
+        n: [4,3],
+        o: [5,3],
+        p: [1,4],
+        q: [2,4],
+        r: [3,4],
+        s: [4,4],
+        t: [5,4],
+        u: [1,5],
+        v: [2,5],
+        w: [3,5],
+        x: [4,5],
+        y: [5,5],
+    };
+    let arr = word.split('');
+    let sum = 0;
+    arr.reduce((t, n) => {
+        sum += Math.abs(items[t][0] - items[n][0]) +
+            Math.abs(items[t][1] - items[n][1]);
+        return n;
+    }, 'a');
+    return sum + word.length;
+};
+
+console.log(tvRemote('does'));
+
