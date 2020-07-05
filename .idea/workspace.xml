@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bfb91b1-2ac4-4202-b378-fb7a3be7c632" name="Default" comment="upside down number - переписать">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Are they the same.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Consecutive strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Delete occurrences of an element if it occurs more than n times.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Replace With Alphabet Position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Unique In Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Beginner Series #3 Sum of Numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Disemvowel Trolls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Isograms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Jaden Casing Strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Sum of two lowest positive integers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Two to One.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <list id="b92e6195-6031-4bbf-a4af-e21be3890e71" name="решил пару задача" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codewars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="codewars" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7-kyu/Sum of two lowest positive integers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Backwards Read Primes</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Mitya\WebstormProjects\codewars\6-kyu</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/5-kyu/Bit calculator.js" />
+        <option value="$PROJECT_DIR$/5-kyu/Concatenating functions.js" />
+        <option value="$PROJECT_DIR$/5-kyu/Directions Reduction.js" />
+        <option value="$PROJECT_DIR$/5-kyu/Don't Eat the Last Cake!.js" />
+        <option value="$PROJECT_DIR$/5-kyu/Conway's Look and Say - Generalized.js" />
+        <option value="$PROJECT_DIR$/5-kyu/Human Readable Time.js" />
+        <option value="$PROJECT_DIR$/5-kyu/Elementary Arithmetic - Carries Count.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Clock in Mirror.js" />
+        <option value="$PROJECT_DIR$/time.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Duplicate Encoder.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Sorting Arrays.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Heroes of Might &amp; Magic.js" />
+        <option value="$PROJECT_DIR$/6-kyu/replaceAll(input, find, replace).js" />
+        <option value="$PROJECT_DIR$/6-kyu/Highest Rank Number in an Array.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Vasya - Clerk.js" />
+        <option value="$PROJECT_DIR$/3-kyu/Sudoku Solver.js" />
+        <option value="$PROJECT_DIR$/4-kyu/Sudoku Solution Validator.js" />
+        <option value="$PROJECT_DIR$/4-kyu/Validate Sudoku with size `NxN`.js" />
+        <option value="$PROJECT_DIR$/4-kyu/Ten-Pin Bowling.js" />
+        <option value="$PROJECT_DIR$/4-kyu/Counting Change Combinations.css" />
+        <option value="$PROJECT_DIR$/4-kyu/Counting Change Combinations.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Format a string of names like 'Bart, Lisa &amp; Maggie'..js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Exes and Ohs.js" />
+        <option value="$PROJECT_DIR$/7-kyu/TV Remote" />
+        <option value="$PROJECT_DIR$/7-kyu/Descending Order.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Counting Duplicates.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Find The Parity Outlier.js" />
+        <option value="$PROJECT_DIR$/constructor.md" />
+        <option value="$PROJECT_DIR$/7-kyu/Square Every Digit.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Complementary DNA.js" />
+        <option value="$PROJECT_DIR$/7-kyu/You're a square!.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Tribonacci Sequence.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Your order, please.js" />
+        <option value="$PROJECT_DIR$/5-kyu/Maximum subarray sum.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Mumbling.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/6-kyu/Unique In Order.js" />
+        <option value="$PROJECT_DIR$/6-kyu/sum function.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Binding within the List Monad.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Consecutive strings.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Are they the same.js" />
+        <option value="$PROJECT_DIR$/6-kyu/Delete occurrences of an element if it occurs more than n times.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/6-kyu/Replace With Alphabet Position.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Isograms.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Disemvowel Trolls.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Jaden Casing Strings.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Beginner Series #3 Sum of Numbers.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Two to One.js" />
+        <option value="$PROJECT_DIR$/7-kyu/Sum of two lowest positive integers.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="7-kyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mitya\WebstormProjects\codewars" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Sum of two lowest positive integers.js">
+    <configuration name="Beginner Series #3 Sum of Numbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7-kyu/Beginner Series #3 Sum of Numbers.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Disemvowel Trolls.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7-kyu/Disemvowel Trolls.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Jaden Casing Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7-kyu/Jaden Casing Strings.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Sum of two lowest positive integers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7-kyu/Sum of two lowest positive integers.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Two to One.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7-kyu/Two to One.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Disemvowel Trolls.js" />
+      <item itemvalue="Node.js.Jaden Casing Strings.js" />
+      <item itemvalue="Node.js.Beginner Series #3 Sum of Numbers.js" />
+      <item itemvalue="Node.js.Two to One.js" />
+      <item itemvalue="Node.js.Sum of two lowest positive integers.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Sum of two lowest positive integers.js" />
+        <item itemvalue="Node.js.Two to One.js" />
+        <item itemvalue="Node.js.Beginner Series #3 Sum of Numbers.js" />
+        <item itemvalue="Node.js.Jaden Casing Strings.js" />
+        <item itemvalue="Node.js.Disemvowel Trolls.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bfb91b1-2ac4-4202-b378-fb7a3be7c632" name="Default" comment="" />
+      <changelist id="b92e6195-6031-4bbf-a4af-e21be3890e71" name="решил пару задача" comment="" />
+      <created>1504209693914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504209693914</updated>
+      <workItem from="1504209695158" duration="5213000" />
+      <workItem from="1504343058188" duration="1046000" />
+      <workItem from="1504367227132" duration="9162000" />
+      <workItem from="1504514209783" duration="37000" />
+      <workItem from="1504559127217" duration="6720000" />
+      <workItem from="1504594587320" duration="720000" />
+      <workItem from="1504646709751" duration="19000" />
+      <workItem from="1504682052205" duration="604000" />
+      <workItem from="1504800510535" duration="3874000" />
+      <workItem from="1504855491516" duration="70000" />
+      <workItem from="1504866893067" duration="158000" />
+      <workItem from="1504977117849" duration="8140000" />
+      <workItem from="1505119707698" duration="37000" />
+      <workItem from="1505199698969" duration="4653000" />
+      <workItem from="1505291126583" duration="1137000" />
+      <workItem from="1505327274970" duration="2153000" />
+      <workItem from="1508688524111" duration="5000" />
+      <workItem from="1510946868160" duration="1692000" />
+      <workItem from="1511089760846" duration="7320000" />
+      <workItem from="1511120248769" duration="3270000" />
+      <workItem from="1511273609905" duration="3404000" />
+      <workItem from="1511291015481" duration="5000" />
+      <workItem from="1512910720758" duration="40000" />
+      <workItem from="1516285211431" duration="4918000" />
+      <workItem from="1516445489693" duration="6998000" />
+      <workItem from="1516797053368" duration="5000" />
+      <workItem from="1517429007146" duration="5479000" />
+      <workItem from="1517689201821" duration="7000" />
+      <workItem from="1517866941628" duration="479000" />
+      <workItem from="1517867434057" duration="9305000" />
+      <workItem from="1518556738214" duration="2379000" />
+      <workItem from="1518619570224" duration="5721000" />
+      <workItem from="1518687978497" duration="1012000" />
+      <workItem from="1518699909544" duration="547000" />
+      <workItem from="1519033936623" duration="3344000" />
+      <workItem from="1519054617023" duration="2936000" />
+      <workItem from="1519204262592" duration="136000" />
+      <workItem from="1519659411459" duration="14000" />
+      <workItem from="1520191446600" duration="1280000" />
+      <workItem from="1520337187193" duration="8416000" />
+      <workItem from="1520349345858" duration="4369000" />
+      <workItem from="1520700635395" duration="2007000" />
+      <workItem from="1521054912408" duration="573000" />
+      <workItem from="1521058483773" duration="4936000" />
+      <workItem from="1521381397875" duration="678000" />
+      <workItem from="1521924446912" duration="6000" />
+      <workItem from="1525632113341" duration="1150000" />
+      <workItem from="1529001120722" duration="1200000" />
+      <workItem from="1529586181467" duration="2414000" />
+      <workItem from="1530630439010" duration="930000" />
+      <workItem from="1530704064563" duration="2766000" />
+      <workItem from="1530789764006" duration="1781000" />
+      <workItem from="1531576741782" duration="2209000" />
+      <workItem from="1531660895032" duration="845000" />
+      <workItem from="1531815191724" duration="3378000" />
+      <workItem from="1531901802123" duration="2057000" />
+      <workItem from="1531944055215" duration="2461000" />
+      <workItem from="1531976941352" duration="3914000" />
+      <workItem from="1532535111336" duration="16000" />
+      <workItem from="1532939761346" duration="77000" />
+      <workItem from="1532977766472" duration="36606000" />
+      <workItem from="1533905351658" duration="26000" />
+      <workItem from="1534864642646" duration="1274000" />
+      <workItem from="1534876775497" duration="884000" />
+      <workItem from="1535391329588" duration="7000" />
+      <workItem from="1575368576932" duration="2260000" />
+      <workItem from="1575370891442" duration="377000" />
+      <workItem from="1575452950223" duration="2357000" />
+      <workItem from="1575471375404" duration="16000" />
+      <workItem from="1575878858791" duration="8923000" />
+      <workItem from="1576054033679" duration="1193000" />
+      <workItem from="1578328443250" duration="4114000" />
+      <workItem from="1579079016067" duration="2078000" />
+      <workItem from="1579085442954" duration="507000" />
+      <workItem from="1579170041337" duration="3237000" />
+      <workItem from="1579597920722" duration="14542000" />
+      <workItem from="1579774107034" duration="674000" />
+      <workItem from="1580289616635" duration="4601000" />
+      <workItem from="1580802813251" duration="2151000" />
+      <workItem from="1581329114019" duration="1257000" />
+      <workItem from="1581494824815" duration="5490000" />
+      <workItem from="1582100318069" duration="3873000" />
+      <workItem from="1584116920257" duration="68000" />
+    </task>
+    <task id="LOCAL-00001" summary="решил пару задача">
+      <created>1504565700487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504565700487</updated>
+    </task>
+    <task id="LOCAL-00002" summary="решил пару задача">
+      <created>1504866976690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504866976690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="решил пару задача">
+      <created>1504984667604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504984667604</updated>
+    </task>
+    <task id="LOCAL-00004" summary="решил пару задача">
+      <created>1504984686174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504984686174</updated>
+    </task>
+    <task id="LOCAL-00005" summary="мда... очень странные задачи !!">
+      <created>1505203093554</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505203093554</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upside down number - переписать">
+      <created>1511096666777</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1511096666777</updated>
+    </task>
+    <task id="LOCAL-00007" summary="upside down number - переписать">
+      <created>1511123523997</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1511123523997</updated>
+    </task>
+    <task id="LOCAL-00008" summary="codewars">
+      <created>1516462326383</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1516462326383</updated>
+    </task>
+    <task id="LOCAL-00009" summary=".">
+      <created>1517940342826</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1517940342826</updated>
+    </task>
+    <task id="LOCAL-00010" summary="..">
+      <created>1519048089855</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1519048089855</updated>
+    </task>
+    <task id="LOCAL-00011" summary="добавил пару задач">
+      <created>1533111672043</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1533111672043</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Решенные задачи с сайта и просто задачи">
+      <created>1579261265953</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579261265953</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="246737000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988764" visible="true" weight="0.12227363" />
+      <window_info id="Structure" order="1" sideWeight="0.5011236" side_tool="true" weight="0.15957446" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969433" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4630593" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.38706017" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32816538" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980484" />
+      <window_info anchor="right" id="Debug" order="3" weight="0.42348993" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="решил пару задача" />
+    <MESSAGE value="мда... очень странные задачи !!" />
+    <MESSAGE value="..." />
+    <MESSAGE value="upside down number - переписать" />
+    <MESSAGE value="codewars" />
+    <MESSAGE value="." />
+    <MESSAGE value=".." />
+    <MESSAGE value="добавил пару задач" />
+    <MESSAGE value="Решенные задачи с сайта и просто задачи" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решенные задачи с сайта и просто задачи" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/6-kyu/Delete occurrences of an element if it occurs more than n times.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="arr[temp]" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/6-kyu/Upside down numbers.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Tribonacci Sequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Sum of Digits-Digital Root.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/sum function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Stop gninnipS My sdroW!.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/replaceAll(input, find, replace).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Playing with digits.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Playing on a chessboard.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Persistent Bugger..js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Multiples of 3 and 5.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/JS Golfing 4 Math.random.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/JS Golfing 3 Math.round.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Highest Rank Number in an Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Heroes of Might &amp; Magic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Format a string of names like 'Bart, Lisa &amp; Maggie'..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Find The Parity Outlier.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Find the odd int.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Equal Sides Of An Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Duplicate Encoder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Does my number look big in this.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Detect Pangram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Decode the Morse code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Counting Duplicates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <marker date="1575883463142" expanded="true" signature="252:534" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Clock in Mirror.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Chain Evaluation.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Bit Counting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Bingo Card.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Another one down.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/A disguised sequence (I).js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Binding within the List Monad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-kyu/Bit calculator.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-kyu/Concatenating functions.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-kyu/Conway's Look and Say - Generalized.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-kyu/Directions Reduction.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-kyu/Don't Eat the Last Cake!.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-kyu/Elementary Arithmetic - Carries Count.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-kyu/Human Readable Time.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-kyu/Maximum subarray sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="94" column="27" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-kyu/Isograms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Are they the same.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Consecutive strings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Delete occurrences of an element if it occurs more than n times.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-kyu/Replace With Alphabet Position.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-kyu/Jaden Casing Strings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-kyu/Descending Order.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-kyu/Disemvowel Trolls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-kyu/Complementary DNA.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-kyu/Beginner Series #3 Sum of Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-kyu/Two to One.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-kyu/Sum of two lowest positive integers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

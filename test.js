@@ -1,6 +1,29 @@
 /////////////////////////////////////////////////////
 
+// class Chameleon {
+//     static colorChange(newColor) {
+//       this.newColor = newColor;
+//       return this.newColor;
+//     }
+  
+//     constructor({ newColor = "green" } = {}) {
+//       this.newColor = newColor;
+//     }
+//   }
+  
+//   const freddie = new Chameleon();
+//   console.log(freddie);
 
+/////////////////////////////////////////////////////
+
+// function sayHi() {
+//     console.log(name);
+//     console.log(age);
+//     var name = "Lydia";
+//     let age = 21;
+//   }
+  
+//   sayHi(); // undefined и ReferenceError
 
 /////////////////////////////////////////////////////
 
