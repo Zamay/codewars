@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bfb91b1-2ac4-4202-b378-fb7a3be7c632" name="Default" comment="fix">
-      <change afterPath="$PROJECT_DIR$/5-kyu/Rot13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/Moves in squared strings (II).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-kyu/n times 2 to the power of x.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-kyu/Century From Year.js" afterDir="false" />
+    <list default="true" id="8bfb91b1-2ac4-4202-b378-fb7a3be7c632" name="Default" comment="Добавил пару задач">
+      <change afterPath="$PROJECT_DIR$/6-kyu/Moves in squared strings (III).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/Split Strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-kyu/Palindrome chain length.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b92e6195-6031-4bbf-a4af-e21be3890e71" name="решил пару задача" comment="" />
@@ -40,14 +39,6 @@
         <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Backwards Read Primes</find>
-    </findStrings>
-    <dirStrings>
-      <dir>C:\Users\Mitya\WebstormProjects\codewars\6-kyu</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,20 +73,20 @@
       <recent name="C:\Users\Mitya\WebstormProjects\codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Moves in squared strings (II).js">
-    <configuration name="Century From Year.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8-kyu/Century From Year.js" working-dir="$PROJECT_DIR$/8-kyu">
+  <component name="RunManager" selected="Node.js.Moves in squared strings (III).js">
+    <configuration name="Moves in squared strings (III).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6-kyu/Moves in squared strings (III).js" working-dir="$PROJECT_DIR$/6-kyu">
       <method v="2" />
     </configuration>
     <configuration name="Moves in squared strings (II).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6-kyu/Moves in squared strings (II).js" working-dir="$PROJECT_DIR$/6-kyu">
       <method v="2" />
     </configuration>
+    <configuration name="Palindrome chain length.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7-kyu/Palindrome chain length.js" working-dir="$PROJECT_DIR$/7-kyu">
+      <method v="2" />
+    </configuration>
     <configuration name="Rot13.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/5-kyu/Rot13.js" working-dir="$PROJECT_DIR$/5-kyu">
       <method v="2" />
     </configuration>
-    <configuration name="n times 2 to the power of x.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6-kyu/n times 2 to the power of x.js" working-dir="$PROJECT_DIR$/6-kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="sum function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6-kyu/sum function.js" working-dir="$PROJECT_DIR$/6-kyu">
+    <configuration name="Split Strings.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6-kyu/Split Strings.js" working-dir="$PROJECT_DIR$/6-kyu">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -108,19 +99,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.sum function.js" />
-      <item itemvalue="Node.js.n times 2 to the power of x.js" />
-      <item itemvalue="Node.js.Century From Year.js" />
       <item itemvalue="Node.js.Rot13.js" />
       <item itemvalue="Node.js.Moves in squared strings (II).js" />
+      <item itemvalue="Node.js.Palindrome chain length.js" />
+      <item itemvalue="Node.js.Split Strings.js" />
+      <item itemvalue="Node.js.Moves in squared strings (III).js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Moves in squared strings (III).js" />
+        <item itemvalue="Node.js.Split Strings.js" />
+        <item itemvalue="Node.js.Palindrome chain length.js" />
         <item itemvalue="Node.js.Moves in squared strings (II).js" />
         <item itemvalue="Node.js.Rot13.js" />
-        <item itemvalue="Node.js.Century From Year.js" />
-        <item itemvalue="Node.js.n times 2 to the power of x.js" />
-        <item itemvalue="Node.js.sum function.js" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +211,9 @@
       <workItem from="1582100318069" duration="3873000" />
       <workItem from="1584116920257" duration="68000" />
       <workItem from="1607701077426" duration="4886000" />
-      <workItem from="1607791388781" duration="5791000" />
+      <workItem from="1607791388781" duration="5872000" />
+      <workItem from="1607963225098" duration="5237000" />
+      <workItem from="1608129176273" duration="9947000" />
     </task>
     <task id="LOCAL-00001" summary="решил пару задача">
       <created>1504565700487</created>
@@ -320,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607701750858</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Добавил пару задач">
+      <created>1607797653770</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607797653770</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -373,36 +373,90 @@
     <MESSAGE value="Решенные задачи с сайта и просто задачи" />
     <MESSAGE value="добавил пару задач" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="Добавил пару задач" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил пару задач" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="230" key="GridCell.Tab.0.bottom" timestamp="1607797403848">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1608134065596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797403848" />
-    <state width="1515" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607713407708" />
-    <state width="1515" height="230" key="GridCell.Tab.0.center" timestamp="1607797403847">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1608134065596" />
+    <state width="631" height="438" key="GridCell.Tab.0.bottom" timestamp="1608155370967">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="230" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797403847" />
-    <state width="1515" height="230" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607713407708" />
-    <state width="1515" height="230" key="GridCell.Tab.0.left" timestamp="1607797403847">
+    <state width="1515" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797688924" />
+    <state width="631" height="438" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.0.center" timestamp="1608155370967">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="230" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797403847" />
-    <state width="1515" height="230" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607713407708" />
-    <state width="1515" height="230" key="GridCell.Tab.0.right" timestamp="1607797403847">
+    <state width="1515" height="230" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797688923" />
+    <state width="631" height="438" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.0.left" timestamp="1608155370966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="230" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797403847" />
-    <state width="1515" height="230" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607713407708" />
+    <state width="1515" height="230" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797688923" />
+    <state width="631" height="438" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608155370966" />
+    <state width="631" height="438" key="GridCell.Tab.0.right" timestamp="1608155370967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="230" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797688923" />
+    <state width="631" height="438" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.1.bottom" timestamp="1608155370967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.1.center" timestamp="1608155370967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.1.left" timestamp="1608155370967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.1.right" timestamp="1608155370967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.2.bottom" timestamp="1608155370968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608155370968" />
+    <state width="631" height="438" key="GridCell.Tab.2.center" timestamp="1608155370967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.2.left" timestamp="1608155370967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.2.right" timestamp="1608155370967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608155370967" />
+    <state width="631" height="438" key="GridCell.Tab.3.bottom" timestamp="1608155370968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608155370968" />
+    <state width="631" height="438" key="GridCell.Tab.3.center" timestamp="1608155370968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1608155370968" />
+    <state width="631" height="438" key="GridCell.Tab.3.left" timestamp="1608155370968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1608155370968" />
+    <state width="631" height="438" key="GridCell.Tab.3.right" timestamp="1608155370968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="631" height="438" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1608155370968" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1607701479288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607701479288" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1607701752111">
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1607797655641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607797655641" />
     <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1607701752111" />
     <state x="585" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607702614452">
       <screen x="0" y="0" width="1536" height="824" />
