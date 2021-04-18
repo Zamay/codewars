@@ -1,5 +1,19 @@
 /////////////////////////////////////////////////////
 
+
+/////////////////////////////////////////////////////
+
+// let arr = [
+//     [10, 12, 30, 45],
+//     [105, 180, 0, 182],
+//     [35, 53, 12, 58],
+//     [18, 19, 28, 79]
+// ] // [45, 182, 58, 79]
+
+// let newArr = arr.map( subArr =>  subArr.sort()[subArr.length-1])
+
+/////////////////////////////////////////////////////
+
 // class Chameleon {
 //     static colorChange(newColor) {
 //       this.newColor = newColor;
@@ -153,16 +167,16 @@
 //
 // var firstWord = "Mary";
 // var secondWord = "Army";
-//
+
 // isAnagram(firstWord, secondWord); // true
-//
+
 // function isAnagram(first, second) {
 //     var a = first.toLowerCase();
 //     var b = second.toLowerCase();
-//
+
 //     a = a.split("").sort().join("");
 //     b = b.split("").sort().join("");
-//
+
 //     return a === b;
 // }
 
