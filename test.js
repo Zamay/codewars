@@ -1,6 +1,37 @@
 /////////////////////////////////////////////////////
+// const a = 'string';
+// const b = "string";
 
+// const coo = (s, q) => s.includes(q);
 
+// console.log(coo(a, `'`)) // false
+// console.log(coo(b, `"`)) // false
+
+/////////////////////////////////////////////////////
+// const foo = cb => {
+//     return cb();
+// }
+// const callback = () => {
+//     return 'Asdver'
+// }
+// console.log(foo(callback()))
+
+/////////////////////////////////////////////////////
+// const a = 'info',
+//     b = 'meta',
+//     c = 'un',
+//     d = 'qwer';
+
+//     const data = {
+//         [a]: [c],
+//         [b]: [d]
+//     }
+
+/////////////////////////////////////////////////////
+// 'use strict'
+// const obj = { get x() { return 17;}}
+// obj.x = 5; // typeError
+// console.log(++obj.a) 
 /////////////////////////////////////////////////////
 
 // let arr = [
