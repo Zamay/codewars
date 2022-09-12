@@ -1,4 +1,4 @@
-bind = function(list, func) {
+// bind = function(list, func) {
 //   let arr = []
 //   list.forEach(val => {
 //     arr.push(func(val)[0]);
